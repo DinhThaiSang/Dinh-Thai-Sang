@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/dinhthaisang?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hi! My name is Sang. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
@@ -67,5 +67,5 @@
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>
-<p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
+<p>Credits: <a href="https://github.com/dinhthaisang">Thai Sang</a></p>
 <p>Last Edited on: 04/09/2021</p> 
